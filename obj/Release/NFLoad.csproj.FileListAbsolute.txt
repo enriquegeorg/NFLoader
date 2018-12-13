@@ -1,0 +1,9 @@
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\bin\Release\NFLoad.exe.config
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\bin\Release\NFLoad.exe
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\bin\Release\NFLoad.pdb
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\obj\Release\NFLoad.NfLoad.resources
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\obj\Release\NFLoad.Properties.Resources.resources
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\obj\Release\NFLoad.csproj.GenerateResource.cache
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\obj\Release\NFLoad.csproj.CoreCompileInputs.cache
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\obj\Release\NFLoad.exe
+C:\Users\jose.oliveira\source\repos\NfLoad\NFLoad\obj\Release\NFLoad.pdb
